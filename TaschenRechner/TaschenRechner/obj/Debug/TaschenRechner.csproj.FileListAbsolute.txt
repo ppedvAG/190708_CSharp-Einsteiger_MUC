@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\obj\Debug\TaschenRechner.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\obj\Debug\TaschenRechner.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\bin\Debug\TaschenRechner.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\bin\Debug\TaschenRechner.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\bin\Debug\TaschenRechner.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\obj\Debug\TaschenRechner.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\TaschenRechner\TaschenRechner\obj\Debug\TaschenRechner.pdb
