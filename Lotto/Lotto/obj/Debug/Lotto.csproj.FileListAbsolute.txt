@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\obj\Debug\Lotto.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\Lotto\Lotto\obj\Debug\Lotto.pdb
