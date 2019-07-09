@@ -10,44 +10,38 @@ namespace Lotto
     {
         static void Main(string[] args)
         {
-            //int[] zahlen = new int[]
-            //{
-            //    1,2,3,4,5,6
-            //};
-            //Console.WriteLine(zahlen.Contains(2));
-            //Console.ReadKey();
+            Console.Write("Gib eine Zahl zwischen 1 und 10 ein: ");
+            int userInput1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Gib eine weitere Zahl zwischen 1 und 10 ein: ");
+            int userInput2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Gib eine letzte Zahl zwischen 1 und 10 ein: ");
+            int userInput3 = Convert.ToInt32(Console.ReadLine());
+            int[] userZahlen = { userInput1, userInput2, userInput3 };
 
-            //double[] doubleZahlen = new double[]
-            //{
-            //    5,6,7,8,9,10
-            //};
-
-            //Console.WriteLine(doubleZahlen[0]);
-            //doubleZahlen[0] = 3;
-            string[] neuesArray = { "Daniel","Josef","Oliver","Ralf" };
-
-            //for (int Laufvariable = 0; Laufvariable < neuesArray.Length; Laufvariable++)
-            //{
-            //    Console.WriteLine($"{neuesArray[Laufvariable]}");
-            //}
-
-
-            foreach (string Vorname in neuesArray)
+            Random generator = new Random();
+            int[] zufallsZahlen = new int[3];
+            int counter = 0;
+            for (int i = 0; i <= zufallsZahlen.Length - 1; i++)
             {
-                Console.WriteLine($"Durchlauf von {Vorname}");
-                if(Vorname == "Oliver")
+                int aktuelleZahl = 0;
+                do
                 {
-                    Console.WriteLine("Jetzt verlasse ich die Schleife");
-                    continue;
+                    aktuelleZahl = generator.Next(1, 10);
+                } while (zufallsZahlen.Contains(aktuelleZahl));
+                zufallsZahlen[i] = aktuelleZahl;
+                Console.WriteLine($"{i + 1}. Gewinnzahl: {aktuelleZahl}");
+                foreach (var zahl in userZahlen)
+                {
+                    if (aktuelleZahl == zahl)
+                    {
+                        counter++;
+                    }
                 }
-                Console.WriteLine("Jetzt bin ich am Ende angelangt und fange mit dem nächsten Durchlauf an.");
             }
-
-            //for (int i=0; i<doubleZahlen.Length; i++)
-            //{
-            //    //Console.WriteLine($"{doubleZahlen[i]}");
-            //}
+            Console.WriteLine($"Du hast {counter} Zahl(en) richtig getippt!");
             Console.ReadKey();
         }
     }
 }
+
+
