@@ -1,7 +1,8 @@
 Nützliche Links:
 
+https://docs.microsoft.com/de-de/visualstudio/ide/visual-csharp-code-snippets?view=vs-2019
 http://visualstudioshortcuts.com/2017/
-https://docs.microsoft.com/de-de/dotnet/api/system.string.format?view=netframework-4.8
+https://docs.microsoft.com/de-de/dotnet/api/
 https://referencesource.microsoft.com/
 https://github.com/dotnet/ILMerge
 
