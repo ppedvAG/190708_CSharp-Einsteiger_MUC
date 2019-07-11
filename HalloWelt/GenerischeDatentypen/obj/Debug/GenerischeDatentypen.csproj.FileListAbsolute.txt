@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\bin\Debug\GenerischeDatentypen.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\bin\Debug\GenerischeDatentypen.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\bin\Debug\GenerischeDatentypen.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\obj\Debug\GenerischeDatentypen.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\obj\Debug\GenerischeDatentypen.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\obj\Debug\GenerischeDatentypen.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\GenerischeDatentypen\obj\Debug\GenerischeDatentypen.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\bin\Debug\VererbungZwei.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\bin\Debug\VererbungZwei.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\bin\Debug\VererbungZwei.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\obj\Debug\VererbungZwei.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\obj\Debug\VererbungZwei.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\obj\Debug\VererbungZwei.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\VererbungZwei\obj\Debug\VererbungZwei.pdb
