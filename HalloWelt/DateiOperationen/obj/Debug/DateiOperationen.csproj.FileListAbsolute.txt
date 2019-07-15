@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\bin\Debug\DateiOperationen.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\bin\Debug\DateiOperationen.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\bin\Debug\DateiOperationen.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\obj\Debug\DateiOperationen.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\obj\Debug\DateiOperationen.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\obj\Debug\DateiOperationen.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\DateiOperationen\obj\Debug\DateiOperationen.csprojAssemblyReference.cache

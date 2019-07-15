@@ -1,0 +1,10 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\UserInterface\obj\Debug\UserInterface.pdb

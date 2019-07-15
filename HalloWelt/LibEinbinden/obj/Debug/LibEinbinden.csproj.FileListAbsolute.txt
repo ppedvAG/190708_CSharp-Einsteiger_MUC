@@ -1,0 +1,11 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\LibEinbinden.exe.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\LibEinbinden.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\LibEinbinden.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\Bibliotheken.dll
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\Bibliotheken.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\bin\Debug\Bibliotheken.dll.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\obj\Debug\LibEinbinden.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\obj\Debug\LibEinbinden.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\obj\Debug\LibEinbinden.csproj.CopyComplete
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\obj\Debug\LibEinbinden.exe
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\LibEinbinden\obj\Debug\LibEinbinden.pdb

@@ -1,0 +1,6 @@
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\bin\Debug\Bibliotheken.dll.config
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\bin\Debug\Bibliotheken.dll
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\bin\Debug\Bibliotheken.pdb
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\obj\Debug\Bibliotheken.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\obj\Debug\Bibliotheken.dll
+C:\Users\dw2\Source\Repos\190708_CSharp-Einsteiger_MUC\HalloWelt\Bibliotheken\obj\Debug\Bibliotheken.pdb
